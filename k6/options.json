@@ -1,5 +1,8 @@
 {
-  "vus": 10,
+  "vus": 5,
   "duration": "10s",
-  "setupTimeout": "120s"
+  "setupTimeout": "120s",
+  "hosts": {
+    "accounts.portal.localhost:3100": "127.0.0.1:3100"
+  }
 }
